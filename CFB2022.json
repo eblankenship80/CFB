@@ -3032,7 +3032,7 @@
           "rivalryNames" : {
             "BAY": "Holy War",
             "SMU": "Battle for the Iron Skillet",
-            "TTU": "Battle for the Saddle Trophy",
+            "TTU": "Battle for the Saddle Trophy"
           },
           "headCoach" : {
             "contractLength" : "6",
@@ -6592,7 +6592,7 @@
           },
           "rival" : ["MRSH", "NCST"],
           "rivalryNames" : {
-        "MRSH": "Honor The 75", 
+            "MRSH": "Honor The 75", 
             "NCST": "Battle for the Victory Barrel"
           },
           "headCoach" : {
@@ -6647,7 +6647,7 @@
           },
           "rival" : ["ECU", "WVU", "OHIO"],
           "rivalryNames" : {
-        "ECU”: "Honor The 75",
+            "ECU": "Honor The 75",
             "WVU": "Friends of Coal Bowl",
             "OHIO": "Battle for the Bell"
           },
